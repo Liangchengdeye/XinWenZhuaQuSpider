@@ -1,0 +1,4 @@
+打包工具安装 pip install pyinstaller
+pyinstaller -F 文件名.py
+pyinstaller -F main.py
+pyinstaller -F -i 图片名.ico main.py
